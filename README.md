@@ -3,6 +3,7 @@ Chat Application
 I built a full-stack chat application to get hands-on experience with real-time communication using WebSockets. This project helped me understand how to develop both the frontend and backend of a web app while focusing on real-time data transfer.
 
 Key Features:
+
 	•	Real-Time Messaging: Used WebSockets to enable instant communication between users with minimal delay.
 	•	Full-Stack Development: Worked on both the frontend and backend, ensuring the app was well-structured and scalable.
 	•	Responsive Design: Made sure the interface works smoothly on different screen sizes.
